@@ -1,3 +1,3 @@
-# Math Annimations
+# Math Animations
 
 ![Alt text](/assets/repo.gif)
